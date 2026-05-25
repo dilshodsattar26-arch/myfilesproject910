@@ -1,0 +1,8 @@
+{
+    "name": "userroute-service",
+    "version": "1.0.910",
+    "private": false,
+    "environment": "production",
+    "build_id": 731,
+    "allow_public_access": true
+}
